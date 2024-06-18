@@ -1,0 +1,932 @@
+Setting up problem!
+Starting solve!
+Done!
+Objective value: tensor(52.7042)
+    Node cost: tensor(31.2375)
+    Edge cost: 21.46666666350011
+Chosen epsilon: tensor(0.0010, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(49.3843, device='cuda:0')
+        Node cost: tensor(24.3911, device='cuda:0')
+        Edge cost: tensor(24.9932, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(50.2348, device='cuda:0')
+        Node cost: tensor(28.9443, device='cuda:0')
+        Edge cost: tensor(21.2905, device='cuda:0')
+    Convergence: tensor(0.0011, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(51.1731, device='cuda:0')
+        Node cost: tensor(29.9157, device='cuda:0')
+        Edge cost: tensor(21.2574, device='cuda:0')
+    Convergence: tensor(0.0007, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(51.5932, device='cuda:0')
+        Node cost: tensor(30.4197, device='cuda:0')
+        Edge cost: tensor(21.1735, device='cuda:0')
+    Convergence: tensor(0.0005, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(51.7065, device='cuda:0')
+        Node cost: tensor(30.6331, device='cuda:0')
+        Edge cost: tensor(21.0734, device='cuda:0')
+    Convergence: tensor(0.0004, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(51.9859, device='cuda:0')
+        Node cost: tensor(30.9176, device='cuda:0')
+        Edge cost: tensor(21.0682, device='cuda:0')
+    Convergence: tensor(0.0003, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(52.1922, device='cuda:0')
+        Node cost: tensor(31.1135, device='cuda:0')
+        Edge cost: tensor(21.0787, device='cuda:0')
+    Convergence: tensor(0.0002, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(52.3281, device='cuda:0')
+        Node cost: tensor(31.1658, device='cuda:0')
+        Edge cost: tensor(21.1623, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(52.4914, device='cuda:0')
+        Node cost: tensor(31.2472, device='cuda:0')
+        Edge cost: tensor(21.2442, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(52.5703, device='cuda:0')
+        Node cost: tensor(31.3212, device='cuda:0')
+        Edge cost: tensor(21.2492, device='cuda:0')
+    Convergence: tensor(8.6263e-05, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(52.6603, device='cuda:0')
+        Node cost: tensor(31.3333, device='cuda:0')
+        Edge cost: tensor(21.3270, device='cuda:0')
+    Convergence: tensor(5.7822e-05, device='cuda:0')
+
+Done!
+Final approximation: tensor(52.6603)
+LP-solver: tensor(52.7042)
+Relative error: tensor(8.3361e-04)
+Percent error: tensor(0.0834)
+Chosen epsilon: tensor(0.0010, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(48.6308, device='cuda:0')
+        Node cost: tensor(27.9253, device='cuda:0')
+        Edge cost: tensor(20.7055, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(49.7172, device='cuda:0')
+        Node cost: tensor(28.6850, device='cuda:0')
+        Edge cost: tensor(21.0322, device='cuda:0')
+    Convergence: tensor(0.0005, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(50.8754, device='cuda:0')
+        Node cost: tensor(30.0073, device='cuda:0')
+        Edge cost: tensor(20.8681, device='cuda:0')
+    Convergence: tensor(0.0002, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(51.5179, device='cuda:0')
+        Node cost: tensor(30.6279, device='cuda:0')
+        Edge cost: tensor(20.8900, device='cuda:0')
+    Convergence: tensor(0.0002, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(51.8338, device='cuda:0')
+        Node cost: tensor(30.8625, device='cuda:0')
+        Edge cost: tensor(20.9713, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(52.1210, device='cuda:0')
+        Node cost: tensor(31.1308, device='cuda:0')
+        Edge cost: tensor(20.9902, device='cuda:0')
+    Convergence: tensor(6.9574e-05, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(52.1704, device='cuda:0')
+        Node cost: tensor(31.1634, device='cuda:0')
+        Edge cost: tensor(21.0070, device='cuda:0')
+    Convergence: tensor(6.3154e-05, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(52.2744, device='cuda:0')
+        Node cost: tensor(31.2449, device='cuda:0')
+        Edge cost: tensor(21.0295, device='cuda:0')
+    Convergence: tensor(5.5250e-05, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(52.5231, device='cuda:0')
+        Node cost: tensor(31.3828, device='cuda:0')
+        Edge cost: tensor(21.1403, device='cuda:0')
+    Convergence: tensor(3.1487e-05, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(52.6256, device='cuda:0')
+        Node cost: tensor(31.3860, device='cuda:0')
+        Edge cost: tensor(21.2396, device='cuda:0')
+    Convergence: tensor(1.9882e-05, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(52.6564, device='cuda:0')
+        Node cost: tensor(31.3666, device='cuda:0')
+        Edge cost: tensor(21.2898, device='cuda:0')
+    Convergence: tensor(1.2839e-05, device='cuda:0')
+
+Done!
+Final approximation: tensor(52.6564)
+LP-solver: tensor(52.7042)
+Relative error: tensor(9.0801e-04)
+Percent error: tensor(0.0908)
+Setting up problem!
+Starting solve!
+Done!
+Objective value: tensor(24.8743)
+    Node cost: tensor(16.8743)
+    Edge cost: 8.0
+Chosen epsilon: tensor(0.0002, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(68.4687, device='cuda:0')
+        Node cost: tensor(12.6371, device='cuda:0')
+        Edge cost: tensor(55.8316, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(32.0851, device='cuda:0')
+        Node cost: tensor(19.9867, device='cuda:0')
+        Edge cost: tensor(12.0984, device='cuda:0')
+    Convergence: tensor(0.0030, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(28.7831, device='cuda:0')
+        Node cost: tensor(19.4004, device='cuda:0')
+        Edge cost: tensor(9.3827, device='cuda:0')
+    Convergence: tensor(0.0004, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(27.9705, device='cuda:0')
+        Node cost: tensor(19.4471, device='cuda:0')
+        Edge cost: tensor(8.5235, device='cuda:0')
+    Convergence: tensor(0.0002, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(27.3474, device='cuda:0')
+        Node cost: tensor(18.9992, device='cuda:0')
+        Edge cost: tensor(8.3482, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(26.7859, device='cuda:0')
+        Node cost: tensor(18.6285, device='cuda:0')
+        Edge cost: tensor(8.1573, device='cuda:0')
+    Convergence: tensor(6.4362e-05, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(26.2698, device='cuda:0')
+        Node cost: tensor(18.4981, device='cuda:0')
+        Edge cost: tensor(7.7717, device='cuda:0')
+    Convergence: tensor(5.4272e-05, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(26.1401, device='cuda:0')
+        Node cost: tensor(18.4332, device='cuda:0')
+        Edge cost: tensor(7.7070, device='cuda:0')
+    Convergence: tensor(5.4970e-05, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(26.0822, device='cuda:0')
+        Node cost: tensor(18.4072, device='cuda:0')
+        Edge cost: tensor(7.6750, device='cuda:0')
+    Convergence: tensor(5.3227e-05, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(26.0435, device='cuda:0')
+        Node cost: tensor(18.3825, device='cuda:0')
+        Edge cost: tensor(7.6611, device='cuda:0')
+    Convergence: tensor(5.4165e-05, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(25.8982, device='cuda:0')
+        Node cost: tensor(18.1704, device='cuda:0')
+        Edge cost: tensor(7.7278, device='cuda:0')
+    Convergence: tensor(3.7817e-05, device='cuda:0')
+
+Done!
+Final approximation: tensor(25.8982)
+LP-solver: tensor(24.8743)
+Relative error: tensor(4.1166e-02)
+Percent error: tensor(4.1166)
+Chosen epsilon: tensor(0.0002, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(26.9144, device='cuda:0')
+        Node cost: tensor(17.9162, device='cuda:0')
+        Edge cost: tensor(8.9981, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(25.2617, device='cuda:0')
+        Node cost: tensor(17.6697, device='cuda:0')
+        Edge cost: tensor(7.5921, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(24.9297, device='cuda:0')
+        Node cost: tensor(16.9764, device='cuda:0')
+        Edge cost: tensor(7.9533, device='cuda:0')
+    Convergence: tensor(6.4382e-06, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(24.8887, device='cuda:0')
+        Node cost: tensor(16.9002, device='cuda:0')
+        Edge cost: tensor(7.9885, device='cuda:0')
+    Convergence: tensor(1.6941e-06, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(24.8826, device='cuda:0')
+        Node cost: tensor(16.8892, device='cuda:0')
+        Edge cost: tensor(7.9934, device='cuda:0')
+    Convergence: tensor(9.8714e-07, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(24.8801, device='cuda:0')
+        Node cost: tensor(16.8847, device='cuda:0')
+        Edge cost: tensor(7.9954, device='cuda:0')
+    Convergence: tensor(6.9899e-07, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(24.8788, device='cuda:0')
+        Node cost: tensor(16.8823, device='cuda:0')
+        Edge cost: tensor(7.9965, device='cuda:0')
+    Convergence: tensor(5.4176e-07, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(24.8780, device='cuda:0')
+        Node cost: tensor(16.8808, device='cuda:0')
+        Edge cost: tensor(7.9972, device='cuda:0')
+    Convergence: tensor(4.4250e-07, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(24.8774, device='cuda:0')
+        Node cost: tensor(16.8798, device='cuda:0')
+        Edge cost: tensor(7.9976, device='cuda:0')
+    Convergence: tensor(3.7404e-07, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(24.8770, device='cuda:0')
+        Node cost: tensor(16.8790, device='cuda:0')
+        Edge cost: tensor(7.9980, device='cuda:0')
+    Convergence: tensor(3.2396e-07, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(24.8766, device='cuda:0')
+        Node cost: tensor(16.8784, device='cuda:0')
+        Edge cost: tensor(7.9982, device='cuda:0')
+    Convergence: tensor(2.8571e-07, device='cuda:0')
+
+Done!
+Final approximation: tensor(24.8766)
+LP-solver: tensor(24.8743)
+Relative error: tensor(9.5775e-05)
+Percent error: tensor(0.0096)
+Chosen epsilon: tensor(0.0002, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(26.9144, device='cuda:0')
+        Node cost: tensor(17.9162, device='cuda:0')
+        Edge cost: tensor(8.9981, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(25.2617, device='cuda:0')
+        Node cost: tensor(17.6697, device='cuda:0')
+        Edge cost: tensor(7.5921, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(24.9297, device='cuda:0')
+        Node cost: tensor(16.9764, device='cuda:0')
+        Edge cost: tensor(7.9533, device='cuda:0')
+    Convergence: tensor(6.4382e-06, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(24.8887, device='cuda:0')
+        Node cost: tensor(16.9002, device='cuda:0')
+        Edge cost: tensor(7.9885, device='cuda:0')
+    Convergence: tensor(1.6941e-06, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.0006, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(26.9144, device='cuda:0')
+        Node cost: tensor(17.9162, device='cuda:0')
+        Edge cost: tensor(8.9981, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(24.9203, device='cuda:0')
+        Node cost: tensor(16.9484, device='cuda:0')
+        Edge cost: tensor(7.9719, device='cuda:0')
+    Convergence: tensor(1.4862e-05, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(24.8899, device='cuda:0')
+        Node cost: tensor(16.8971, device='cuda:0')
+        Edge cost: tensor(7.9928, device='cuda:0')
+    Convergence: tensor(4.7971e-06, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(24.8841, device='cuda:0')
+        Node cost: tensor(16.8878, device='cuda:0')
+        Edge cost: tensor(7.9963, device='cuda:0')
+    Convergence: tensor(2.9168e-06, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(24.8815, device='cuda:0')
+        Node cost: tensor(16.8839, device='cuda:0')
+        Edge cost: tensor(7.9976, device='cuda:0')
+    Convergence: tensor(2.1128e-06, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(24.8800, device='cuda:0')
+        Node cost: tensor(16.8817, device='cuda:0')
+        Edge cost: tensor(7.9983, device='cuda:0')
+    Convergence: tensor(1.6636e-06, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.0020, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(26.8983, device='cuda:0')
+        Node cost: tensor(17.9188, device='cuda:0')
+        Edge cost: tensor(8.9794, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(24.9142, device='cuda:0')
+        Node cost: tensor(16.9106, device='cuda:0')
+        Edge cost: tensor(8.0036, device='cuda:0')
+    Convergence: tensor(3.0518e-05, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(24.8947, device='cuda:0')
+        Node cost: tensor(16.8913, device='cuda:0')
+        Edge cost: tensor(8.0035, device='cuda:0')
+    Convergence: tensor(1.4092e-05, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(24.8885, device='cuda:0')
+        Node cost: tensor(16.8857, device='cuda:0')
+        Edge cost: tensor(8.0028, device='cuda:0')
+    Convergence: tensor(8.9260e-06, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(24.8855, device='cuda:0')
+        Node cost: tensor(16.8832, device='cuda:0')
+        Edge cost: tensor(8.0023, device='cuda:0')
+    Convergence: tensor(6.4412e-06, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(24.8836, device='cuda:0')
+        Node cost: tensor(16.8817, device='cuda:0')
+        Edge cost: tensor(8.0019, device='cuda:0')
+    Convergence: tensor(5.0265e-06, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(24.8824, device='cuda:0')
+        Node cost: tensor(16.8807, device='cuda:0')
+        Edge cost: tensor(8.0017, device='cuda:0')
+    Convergence: tensor(4.1245e-06, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(24.8815, device='cuda:0')
+        Node cost: tensor(16.8801, device='cuda:0')
+        Edge cost: tensor(8.0015, device='cuda:0')
+    Convergence: tensor(3.5000e-06, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(24.8809, device='cuda:0')
+        Node cost: tensor(16.8796, device='cuda:0')
+        Edge cost: tensor(8.0013, device='cuda:0')
+    Convergence: tensor(3.0414e-06, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(24.8804, device='cuda:0')
+        Node cost: tensor(16.8792, device='cuda:0')
+        Edge cost: tensor(8.0012, device='cuda:0')
+    Convergence: tensor(2.6901e-06, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(24.8799, device='cuda:0')
+        Node cost: tensor(16.8789, device='cuda:0')
+        Edge cost: tensor(8.0011, device='cuda:0')
+    Convergence: tensor(2.4121e-06, device='cuda:0')
+
+Iteration: 1100
+    Objective value: tensor(24.8796, device='cuda:0')
+        Node cost: tensor(16.8786, device='cuda:0')
+        Edge cost: tensor(8.0010, device='cuda:0')
+    Convergence: tensor(2.1864e-06, device='cuda:0')
+
+Iteration: 1200
+    Objective value: tensor(24.8793, device='cuda:0')
+        Node cost: tensor(16.8784, device='cuda:0')
+        Edge cost: tensor(8.0009, device='cuda:0')
+    Convergence: tensor(1.9996e-06, device='cuda:0')
+
+Iteration: 1300
+    Objective value: tensor(24.8791, device='cuda:0')
+        Node cost: tensor(16.8782, device='cuda:0')
+        Edge cost: tensor(8.0008, device='cuda:0')
+    Convergence: tensor(1.8423e-06, device='cuda:0')
+
+Iteration: 1400
+    Objective value: tensor(24.8789, device='cuda:0')
+        Node cost: tensor(16.8781, device='cuda:0')
+        Edge cost: tensor(8.0008, device='cuda:0')
+    Convergence: tensor(1.7081e-06, device='cuda:0')
+
+Iteration: 1500
+    Objective value: tensor(24.8787, device='cuda:0')
+        Node cost: tensor(16.8780, device='cuda:0')
+        Edge cost: tensor(8.0007, device='cuda:0')
+    Convergence: tensor(1.5921e-06, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.0060, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(26.7067, device='cuda:0')
+        Node cost: tensor(17.8356, device='cuda:0')
+        Edge cost: tensor(8.8710, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(24.9336, device='cuda:0')
+        Node cost: tensor(16.9255, device='cuda:0')
+        Edge cost: tensor(8.0081, device='cuda:0')
+    Convergence: tensor(8.2655e-05, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(24.9130, device='cuda:0')
+        Node cost: tensor(16.9080, device='cuda:0')
+        Edge cost: tensor(8.0050, device='cuda:0')
+    Convergence: tensor(3.7559e-05, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(24.9064, device='cuda:0')
+        Node cost: tensor(16.9027, device='cuda:0')
+        Edge cost: tensor(8.0037, device='cuda:0')
+    Convergence: tensor(2.2372e-05, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(24.9034, device='cuda:0')
+        Node cost: tensor(16.9004, device='cuda:0')
+        Edge cost: tensor(8.0030, device='cuda:0')
+    Convergence: tensor(1.4049e-05, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(24.9018, device='cuda:0')
+        Node cost: tensor(16.8993, device='cuda:0')
+        Edge cost: tensor(8.0025, device='cuda:0')
+    Convergence: tensor(9.9057e-06, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(24.9009, device='cuda:0')
+        Node cost: tensor(16.8988, device='cuda:0')
+        Edge cost: tensor(8.0021, device='cuda:0')
+    Convergence: tensor(8.0484e-06, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(24.9003, device='cuda:0')
+        Node cost: tensor(16.8986, device='cuda:0')
+        Edge cost: tensor(8.0017, device='cuda:0')
+    Convergence: tensor(6.9547e-06, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(24.9000, device='cuda:0')
+        Node cost: tensor(16.8985, device='cuda:0')
+        Edge cost: tensor(8.0015, device='cuda:0')
+    Convergence: tensor(6.1556e-06, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(24.8997, device='cuda:0')
+        Node cost: tensor(16.8984, device='cuda:0')
+        Edge cost: tensor(8.0012, device='cuda:0')
+    Convergence: tensor(5.5276e-06, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(24.8994, device='cuda:0')
+        Node cost: tensor(16.8984, device='cuda:0')
+        Edge cost: tensor(8.0011, device='cuda:0')
+    Convergence: tensor(5.0180e-06, device='cuda:0')
+
+Iteration: 1100
+    Objective value: tensor(24.8992, device='cuda:0')
+        Node cost: tensor(16.8983, device='cuda:0')
+        Edge cost: tensor(8.0009, device='cuda:0')
+    Convergence: tensor(4.5953e-06, device='cuda:0')
+
+Iteration: 1200
+    Objective value: tensor(24.8990, device='cuda:0')
+        Node cost: tensor(16.8983, device='cuda:0')
+        Edge cost: tensor(8.0008, device='cuda:0')
+    Convergence: tensor(4.2385e-06, device='cuda:0')
+
+Iteration: 1300
+    Objective value: tensor(24.8989, device='cuda:0')
+        Node cost: tensor(16.8983, device='cuda:0')
+        Edge cost: tensor(8.0006, device='cuda:0')
+    Convergence: tensor(3.9331e-06, device='cuda:0')
+
+Iteration: 1400
+    Objective value: tensor(24.8988, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0005, device='cuda:0')
+    Convergence: tensor(3.6686e-06, device='cuda:0')
+
+Iteration: 1500
+    Objective value: tensor(24.8986, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0004, device='cuda:0')
+    Convergence: tensor(3.4371e-06, device='cuda:0')
+
+Iteration: 1600
+    Objective value: tensor(24.8985, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0003, device='cuda:0')
+    Convergence: tensor(3.2328e-06, device='cuda:0')
+
+Iteration: 1700
+    Objective value: tensor(24.8985, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0003, device='cuda:0')
+    Convergence: tensor(3.0512e-06, device='cuda:0')
+
+Iteration: 1800
+    Objective value: tensor(24.8984, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0002, device='cuda:0')
+    Convergence: tensor(2.8886e-06, device='cuda:0')
+
+Iteration: 1900
+    Objective value: tensor(24.8983, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0001, device='cuda:0')
+    Convergence: tensor(2.7423e-06, device='cuda:0')
+
+Iteration: 2000
+    Objective value: tensor(24.8982, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0001, device='cuda:0')
+    Convergence: tensor(2.6099e-06, device='cuda:0')
+
+Iteration: 2100
+    Objective value: tensor(24.8982, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0000, device='cuda:0')
+    Convergence: tensor(2.4895e-06, device='cuda:0')
+
+Iteration: 2200
+    Objective value: tensor(24.8981, device='cuda:0')
+        Node cost: tensor(16.8982, device='cuda:0')
+        Edge cost: tensor(8.0000, device='cuda:0')
+    Convergence: tensor(2.3796e-06, device='cuda:0')
+
+Iteration: 2300
+    Objective value: tensor(24.8981, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9999, device='cuda:0')
+    Convergence: tensor(2.2789e-06, device='cuda:0')
+
+Iteration: 2400
+    Objective value: tensor(24.8980, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9999, device='cuda:0')
+    Convergence: tensor(2.1863e-06, device='cuda:0')
+
+Iteration: 2500
+    Objective value: tensor(24.8980, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9998, device='cuda:0')
+    Convergence: tensor(2.1008e-06, device='cuda:0')
+
+Iteration: 2600
+    Objective value: tensor(24.8979, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9998, device='cuda:0')
+    Convergence: tensor(2.0218e-06, device='cuda:0')
+
+Iteration: 2700
+    Objective value: tensor(24.8979, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9998, device='cuda:0')
+    Convergence: tensor(1.9484e-06, device='cuda:0')
+
+Iteration: 2800
+    Objective value: tensor(24.8979, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9997, device='cuda:0')
+    Convergence: tensor(1.8801e-06, device='cuda:0')
+
+Iteration: 2900
+    Objective value: tensor(24.8978, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9997, device='cuda:0')
+    Convergence: tensor(1.8165e-06, device='cuda:0')
+
+Iteration: 3000
+    Objective value: tensor(24.8978, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9997, device='cuda:0')
+    Convergence: tensor(1.7570e-06, device='cuda:0')
+
+Iteration: 3100
+    Objective value: tensor(24.8978, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9997, device='cuda:0')
+    Convergence: tensor(1.7013e-06, device='cuda:0')
+
+Iteration: 3200
+    Objective value: tensor(24.8977, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9996, device='cuda:0')
+    Convergence: tensor(1.6491e-06, device='cuda:0')
+
+Iteration: 3300
+    Objective value: tensor(24.8977, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9996, device='cuda:0')
+    Convergence: tensor(1.5999e-06, device='cuda:0')
+
+Iteration: 3400
+    Objective value: tensor(24.8977, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9996, device='cuda:0')
+    Convergence: tensor(1.5537e-06, device='cuda:0')
+
+Iteration: 3500
+    Objective value: tensor(24.8977, device='cuda:0')
+        Node cost: tensor(16.8981, device='cuda:0')
+        Edge cost: tensor(7.9996, device='cuda:0')
+    Convergence: tensor(1.5100e-06, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.0200, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(26.9825, device='cuda:0')
+        Node cost: tensor(18.5103, device='cuda:0')
+        Edge cost: tensor(8.4723, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Iteration: 100
+    Objective value: tensor(25.8536, device='cuda:0')
+        Node cost: tensor(18.1486, device='cuda:0')
+        Edge cost: tensor(7.7050, device='cuda:0')
+    Convergence: tensor(0.0004, device='cuda:0')
+
+Iteration: 200
+    Objective value: tensor(25.8067, device='cuda:0')
+        Node cost: tensor(18.1029, device='cuda:0')
+        Edge cost: tensor(7.7038, device='cuda:0')
+    Convergence: tensor(0.0002, device='cuda:0')
+
+Iteration: 300
+    Objective value: tensor(25.7877, device='cuda:0')
+        Node cost: tensor(18.0895, device='cuda:0')
+        Edge cost: tensor(7.6982, device='cuda:0')
+    Convergence: tensor(0.0001, device='cuda:0')
+
+Iteration: 400
+    Objective value: tensor(25.7776, device='cuda:0')
+        Node cost: tensor(18.0830, device='cuda:0')
+        Edge cost: tensor(7.6946, device='cuda:0')
+    Convergence: tensor(9.5181e-05, device='cuda:0')
+
+Iteration: 500
+    Objective value: tensor(25.7716, device='cuda:0')
+        Node cost: tensor(18.0783, device='cuda:0')
+        Edge cost: tensor(7.6933, device='cuda:0')
+    Convergence: tensor(7.5656e-05, device='cuda:0')
+
+Iteration: 600
+    Objective value: tensor(25.7686, device='cuda:0')
+        Node cost: tensor(18.0763, device='cuda:0')
+        Edge cost: tensor(7.6923, device='cuda:0')
+    Convergence: tensor(6.0080e-05, device='cuda:0')
+
+Iteration: 700
+    Objective value: tensor(25.7668, device='cuda:0')
+        Node cost: tensor(18.0753, device='cuda:0')
+        Edge cost: tensor(7.6915, device='cuda:0')
+    Convergence: tensor(5.0053e-05, device='cuda:0')
+
+Iteration: 800
+    Objective value: tensor(25.7656, device='cuda:0')
+        Node cost: tensor(18.0744, device='cuda:0')
+        Edge cost: tensor(7.6911, device='cuda:0')
+    Convergence: tensor(4.2992e-05, device='cuda:0')
+
+Iteration: 900
+    Objective value: tensor(25.7651, device='cuda:0')
+        Node cost: tensor(18.0742, device='cuda:0')
+        Edge cost: tensor(7.6909, device='cuda:0')
+    Convergence: tensor(3.5131e-05, device='cuda:0')
+
+Iteration: 1000
+    Objective value: tensor(25.7650, device='cuda:0')
+        Node cost: tensor(18.0742, device='cuda:0')
+        Edge cost: tensor(7.6908, device='cuda:0')
+    Convergence: tensor(2.9731e-05, device='cuda:0')
+
+Iteration: 1100
+    Objective value: tensor(25.7646, device='cuda:0')
+        Node cost: tensor(18.0740, device='cuda:0')
+        Edge cost: tensor(7.6906, device='cuda:0')
+    Convergence: tensor(2.6587e-05, device='cuda:0')
+
+Iteration: 1200
+    Objective value: tensor(25.7642, device='cuda:0')
+        Node cost: tensor(18.0737, device='cuda:0')
+        Edge cost: tensor(7.6906, device='cuda:0')
+    Convergence: tensor(2.4455e-05, device='cuda:0')
+
+Iteration: 1300
+    Objective value: tensor(25.7639, device='cuda:0')
+        Node cost: tensor(18.0733, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(2.2738e-05, device='cuda:0')
+
+Iteration: 1400
+    Objective value: tensor(25.7635, device='cuda:0')
+        Node cost: tensor(18.0730, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(2.1237e-05, device='cuda:0')
+
+Iteration: 1500
+    Objective value: tensor(25.7632, device='cuda:0')
+        Node cost: tensor(18.0727, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.9839e-05, device='cuda:0')
+
+Iteration: 1600
+    Objective value: tensor(25.7630, device='cuda:0')
+        Node cost: tensor(18.0725, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.8385e-05, device='cuda:0')
+
+Iteration: 1700
+    Objective value: tensor(25.7629, device='cuda:0')
+        Node cost: tensor(18.0724, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.6671e-05, device='cuda:0')
+
+Iteration: 1800
+    Objective value: tensor(25.7628, device='cuda:0')
+        Node cost: tensor(18.0723, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.4796e-05, device='cuda:0')
+
+Iteration: 1900
+    Objective value: tensor(25.7628, device='cuda:0')
+        Node cost: tensor(18.0723, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.3363e-05, device='cuda:0')
+
+Iteration: 2000
+    Objective value: tensor(25.7628, device='cuda:0')
+        Node cost: tensor(18.0723, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.2523e-05, device='cuda:0')
+
+Iteration: 2100
+    Objective value: tensor(25.7627, device='cuda:0')
+        Node cost: tensor(18.0722, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.1943e-05, device='cuda:0')
+
+Iteration: 2200
+    Objective value: tensor(25.7627, device='cuda:0')
+        Node cost: tensor(18.0722, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.1440e-05, device='cuda:0')
+
+Iteration: 2300
+    Objective value: tensor(25.7626, device='cuda:0')
+        Node cost: tensor(18.0721, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.0970e-05, device='cuda:0')
+
+Iteration: 2400
+    Objective value: tensor(25.7625, device='cuda:0')
+        Node cost: tensor(18.0720, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.0515e-05, device='cuda:0')
+
+Iteration: 2500
+    Objective value: tensor(25.7624, device='cuda:0')
+        Node cost: tensor(18.0719, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.0053e-05, device='cuda:0')
+
+Iteration: 2600
+    Objective value: tensor(25.7624, device='cuda:0')
+        Node cost: tensor(18.0719, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(9.5479e-06, device='cuda:0')
+
+Iteration: 2700
+    Objective value: tensor(25.7623, device='cuda:0')
+        Node cost: tensor(18.0718, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(8.9511e-06, device='cuda:0')
+
+Iteration: 2800
+    Objective value: tensor(25.7623, device='cuda:0')
+        Node cost: tensor(18.0718, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(8.2056e-06, device='cuda:0')
+
+Iteration: 2900
+    Objective value: tensor(25.7623, device='cuda:0')
+        Node cost: tensor(18.0718, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(7.2790e-06, device='cuda:0')
+
+Iteration: 3000
+    Objective value: tensor(25.7624, device='cuda:0')
+        Node cost: tensor(18.0719, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(6.2026e-06, device='cuda:0')
+
+Iteration: 3100
+    Objective value: tensor(25.7624, device='cuda:0')
+        Node cost: tensor(18.0719, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(5.0620e-06, device='cuda:0')
+
+Iteration: 3200
+    Objective value: tensor(25.7625, device='cuda:0')
+        Node cost: tensor(18.0720, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(3.9353e-06, device='cuda:0')
+
+Iteration: 3300
+    Objective value: tensor(25.7626, device='cuda:0')
+        Node cost: tensor(18.0721, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(2.8837e-06, device='cuda:0')
+
+Iteration: 3400
+    Objective value: tensor(25.7626, device='cuda:0')
+        Node cost: tensor(18.0721, device='cuda:0')
+        Edge cost: tensor(7.6905, device='cuda:0')
+    Convergence: tensor(1.9787e-06, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.0600, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(44.8136, device='cuda:0')
+        Node cost: tensor(39.1672, device='cuda:0')
+        Edge cost: tensor(5.6464, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.2000, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(91.0240, device='cuda:0')
+        Node cost: tensor(62.3996, device='cuda:0')
+        Edge cost: tensor(28.6244, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(0.6000, device='cuda:0')
+Iteration: 1
+    Objective value: tensor(193.7672, device='cuda:0')
+        Node cost: tensor(78.3205, device='cuda:0')
+        Edge cost: tensor(115.4467, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(2., device='cuda:0')
+Iteration: 1
+    Objective value: tensor(211.7260, device='cuda:0')
+        Node cost: tensor(74.5435, device='cuda:0')
+        Edge cost: tensor(137.1825, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Done!
+Chosen epsilon: tensor(6., device='cuda:0')
+Iteration: 1
+    Objective value: tensor(213.4146, device='cuda:0')
+        Node cost: tensor(72.5475, device='cuda:0')
+        Edge cost: tensor(140.8671, device='cuda:0')
+    Convergence: tensor(inf, device='cuda:0')
+
+Done!
